@@ -1,4 +1,0 @@
-<manifest>
-    <remove-project name="CyanogenMod/android_system_core"/>
-    <project path="system/core" remote="github" name="webOS-ports/android_system_core" revision="wop/master"/>
-</manifest>

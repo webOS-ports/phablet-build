@@ -1,0 +1,4 @@
+<manifest>
+    <remove-project name="CyanogenMod/android_device_samsung_tuna"/>
+    <project name="webOS-ports/android_device_samsung_tuna" path="device/samsung/tuna" remote="github" revision="webOS-ports/master" />
+</manifest>
